@@ -36,7 +36,6 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [Vercel](https://3column-preview-card-component-v2.vercel.app/)
-- 
 
 ## Process
 
