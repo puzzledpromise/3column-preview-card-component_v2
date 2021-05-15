@@ -45,4 +45,6 @@ Users should be able to:
 - SCSS
 - Flexbox
 
+## Other Solutions
 
+- [Patrick](https://www.frontendmentor.io/solutions/3-column-preview-card-component-html-and-css-TQMkMIRyk)
